@@ -17,13 +17,13 @@ footer {
     height: 200px;
   }
   body {
-    background-color: #89a7ca;
+    background-color: #eee4ca;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 header {
-    background-color: #1a2153; 
-    color: #cb2424;
+    background-color: #000000; 
+    color: #eee4ca;
     padding: 10px;
     text-align: center;
 }
